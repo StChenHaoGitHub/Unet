@@ -10,7 +10,7 @@ Here is the original model
 ![image](https://github.com/StChenHaoGitHub/Unet/assets/94610552/59e2fc34-730e-4857-90b0-fc32f61925c8)
 My model's merits:
 * Input and output figuresize is same,This is in line with our commen situation.
-* Canceled meaningless clipping of convolutional layers, Try to use the samoe convolutin strategy as much as possible.
+* Canceled meaningless clipping of convolutional layers, Try to use the same convolutin strategy as much as possible.
 * Clear and simple structure, Sutiable for beginner to read.
 
 There are the results:
